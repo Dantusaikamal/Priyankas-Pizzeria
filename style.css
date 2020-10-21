@@ -98,7 +98,7 @@ a:hover {
     height: 38px;
     border: none;
     text-indent: 100%;
-    background: url(../Priya\ akka\ submission/images/move-top.png) no-repeat 0px 0px;
+    background: url(images/move-top.png) no-repeat 0px 0px;
 }
 
 #toTopHover {
@@ -236,7 +236,7 @@ button.submit:hover {
 /*-- //header --*/
 /*-- banner --*/
 .bg1 {
-    background: url(../Priya\ akka\ submission/images/new.jpg)no-repeat center;
+    background: url(images/new.jpg)no-repeat center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -245,7 +245,7 @@ button.submit:hover {
 }
 
 .bg2 {
-    background: url(../Priya\ akka\ submission/images/roll.jpg)no-repeat center;
+    background: url(images/roll.jpg)no-repeat center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -258,7 +258,7 @@ button.submit:hover {
 }
 
 .w3l-overlay {
-    background: url(../Priya\ akka\ submission/images/overlay.png)repeat;
+    background: url(images/overlay.png)repeat;
 }
 
 .w3l-overlay,
@@ -598,7 +598,7 @@ p.movetxt {
 /*-- //search --*/
 /* about */
 .about {
-    background: url(../Priya\ akka\ submission/images/bg1.jpg) no-repeat center;
+    background: url(images/bg1.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -656,7 +656,7 @@ a.button-w3ls:hover {
 
 /*-- About --*/
 .w3ls-middle {
-    background: url(../Priya\ akka\ submission/images/bg2.jpg) no-repeat right;
+    background: url(images/bg2.jpg) no-repeat right;
     background-size: contain;
     -webkit-background-size: contain;
     -moz-background-size: contain;
@@ -713,7 +713,7 @@ a.button-w3ls:hover {
 }
 
 .agile-wthree-works {
-    background: url(../Priya\ akka\ submission/img2.jpg) no-repeat left;
+    background: url(img2.jpg) no-repeat left;
     background-size: contain;
     -webkit-background-size: contain;
     -moz-background-size: contain;
@@ -731,7 +731,7 @@ a.button-w3ls:hover {
 }
 
 footer {
-    background: url(../Priya\ akka\ submission/images/bg5.jpg) no-repeat center fixed;
+    background: url(images/bg5.jpg) no-repeat center fixed;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
