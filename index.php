@@ -23,7 +23,7 @@
 	<!-- Bootstrap-Core-CSS -->
 	<link rel="stylesheet" href="smoothbox.css" type='text/css' media="all" />
 	<!-- gallery light box -->
-	<link rel="stylesheet" href="style.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
 	<!-- Style-CSS -->
 	<link rel="stylesheet" href="fontawesome-all.css">
 	<!-- Font-Awesome-Icons-CSS -->
