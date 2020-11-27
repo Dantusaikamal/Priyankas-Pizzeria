@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>Priyanka's Pizzeria</title>
+	<!-- Meta tag Keywords -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="UTF-8" />
+	<meta name="keywords" content="Priyanka's Pizzeria" />
+	<script>
+		addEventListener("load", function () {
+			setTimeout(hideURLbar, 0);
+		}, false);
+
+		function hideURLbar() {
+			window.scrollTo(0, 1);
+		}
+	</script>
+	<!--// Meta tag Keywords -->
+
+	<!-- Custom-Files -->
+	<link rel="stylesheet" href="bootstrap.css">
+	<!-- Bootstrap-Core-CSS -->
+	<link rel="stylesheet" href="smoothbox.css" type='text/css' media="all" />
+	<!-- gallery light box -->
+	<link rel="stylesheet" href="../css/style.css" type="text/css" media="all" />
+	<!-- Style-CSS -->
+	<link rel="stylesheet" href="fontawesome-all.css">
+	<!-- Font-Awesome-Icons-CSS -->
+	<!-- //Custom-Files -->
+
+	<!-- Web-Fonts -->
+	<link href="//fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&amp;subset=latin-ext"
+	    rel="stylesheet">
+	<link href="//fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&amp;subset=latin-ext"
+	    rel="stylesheet">
+	<!-- //Web-Fonts -->
+
+</head>
+
+
+
+
+<body>							
+	
+
+	<!-- banner -->
+	<div class="callbacks_container">
+		<ul class="rslides" id="slider3">
+		
+			<li>
+				<div class="slider-info bg1">
+					<div class="w3l-overlay">
+						<h2 style="font-size: 50px; text-shadow: 5px; text-align: center; padding-top: 0px;">Login</h2>
+
+						<div class="banner-text text-center container">
+							<div class="search-agile">
+        <p style="font-size: 20px; color:white;">Please fill in your credentials to start ordering from Priyanka's Pizzeria</p>
+        <form name="f1" action = "authentication.php" onsubmit = "return validation()" method = "POST">  
+            <p style="color:white; margin: 5px;">  
+                <label> UserName: </label>  
+                <input type = "text" id ="user" name  = "user" />  
+            </p>  
+            <p style="color:white;">  
+                <label> Password: </label>  
+                <input type = "password" id ="pass" name  = "pass" />  
+            </p>  
+            <p>     
+                <input type =  "submit" id = "btn" value = "Login" />  
+            </p>  
+        </form>  
+		
+						</div>
+					</div>
+				</div>
+				</div>
+			</li>
+		
+		</ul>
+	</div>
+	<!-- //banner -->
+
+
+
+
+    
+        
+    
+   
+    <script>  
+            function validation()  
+            {  
+                var id=document.f1.user.value;  
+                var ps=document.f1.pass.value;  
+                if(id.length=="" && ps.length=="") {  
+                    alert("User Name and Password fields are empty");  
+                    return false;  
+                }  
+                else  
+                {  
+                    if(id.length=="") {  
+                        alert("User Name is empty");  
+                        return false;  
+                    }   
+                    if (ps.length=="") {  
+                    alert("Password field is empty");  
+                    return false;  
+                    }  
+                }                             
+            }  
+        </script>  
+    </div>    
+</body>
+</html>
