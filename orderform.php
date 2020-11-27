@@ -1,6 +1,10 @@
 <?php
 // Start the session
 session_start();
+
+if(isset($_SESSION['username'])){
+  echo "<p style='color:white; padding-left:900px; '>" . "Welcome '{$_SESSION['username']}'";
+}
 ?>
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
@@ -39,7 +43,8 @@ session_start();
 .form-all {
   display: flex;
   flex-direction: column;
-  margin: 72px auto;
+  /* margin:72px */
+  margin: 0px auto;
   width: 100%;
   max-width: 710px;
 }
