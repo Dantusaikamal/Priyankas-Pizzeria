@@ -767,7 +767,7 @@ JotForm.paymentExtrasOnTheFly([null,{"name":"pizzaOrder","qid":"1","text":"Pizza
   <input type="hidden" id="cardinalOrderNumber" value="" />
   <div role="main" class="form-all">
     <div class="formLogoWrapper Left">
-      <img class="formLogoImg" src="https://www.jotform.com/uploads/guest_3662ae4d541503e3/form_files/gold.5fbff3111c13f5.46450804.png" height="140" width="140">
+      <img class="formLogoImg" src="gold.png" height="140" width="140">
     </div>
     <style>
       .formLogoWrapper { display:inline-block; position: absolute; width: 100%;} .form-all:before { background: none !important;} .formLogoWrapper.Left { top: -150px; left: 0; text-align: left;}
