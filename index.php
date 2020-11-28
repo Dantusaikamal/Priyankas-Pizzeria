@@ -70,7 +70,7 @@
 					<div class="forms-w3ls-agilesm text-center mt-lg-0 mt-4">
 						<ul>
 							<li class="login-list-w3ls d-inline border-right pr-3 mr-3">
-								<a href="login.html" class="text-white" data-toggle="modal" data-target="#exampleModalCenter1">Login</a>
+								<a href="html/login.html" class="text-white" data-toggle="modal" data-target="#exampleModalCenter1">Login</a>
 							</li>
 							<li class="login-list-w3ls d-inline">
 								<a href="register.php" class="text-white" data-toggle="modal" data-target="#exampleModalCenter2">Register</a>
@@ -117,7 +117,7 @@
 			<div class="row about-bottom-w3l text-center pt-lg-5">
 				<div class="col-sm-6 about-grid">
 					<div class="about-grid-main">
-						<img src="a1.png" alt="" class="img-fluid">
+						<img src="images/a1.png" alt="" class="img-fluid">
 						<h4 class="mb-3">Salami pizza</h4>
 						<p> Our chef's special pizza, try it and we assure you'll never forget it.</p>
 						<a href="#" class="button-w3ls mt-4" data-toggle="modal" data-target="#exampleModalCenter1">Read More
@@ -126,7 +126,7 @@
 				</div>
 				<div class="col-sm-6 about-grid mt-sm-0 mt-4">
 					<div class="about-grid-main">
-						<img src="a2.png" alt="" class="img-fluid">
+						<img src="images/a2.png" alt="" class="img-fluid">
 						<h4 class="mb-3">Cheese macaroni Pizza</h4>
 						<p>Our pizza's taste so good that you'll dump other Pizza outlets ;)</p>
 						<a href="#" class="button-w3ls mt-4" data-toggle="modal" data-target="#exampleModalCenter1">Read More
@@ -184,7 +184,7 @@
 					</a>
 				</div>
 				<div class="col-md-6 grids-w3ls-right">
-					<img src="middle.jpg" alt="" class="img-fluid" style="width: 430px; height:525px;">
+					<img src="images/middle.jpg" alt="" class="img-fluid" style="width: 430px; height:525px;">
 				</div>
 			</div>
 		</div>
@@ -213,27 +213,27 @@
 				<div class="col-4 agile-gallery_grid_main">
 					<div class="gallery-img-grid gallery_grid1 hover14 column">
 						<div class="gallery_effect">
-							<a href=" g1.jpg" class="sb" title="Priyanka's Pizzeria">
+							<a href="images/g1.jpg" class="sb" title="Priyanka's Pizzeria">
 								<figure>
-									<img src="g1.jpg" alt=" " class="img-fluid" />
+									<img src="images/g1.jpg" alt=" " class="img-fluid" />
 								</figure>
 							</a>
 						</div>
 					</div>
 					<div class="gallery-img-grid hover14 column">
 						<div class="gallery_effect">
-							<a href="g2.jpg" class="sb" title="Priyanka's Pizzeria">
+							<a href="images/g2.jpg" class="sb" title="Priyanka's Pizzeria">
 								<figure>
-									<img src="g2.jpg" alt=" " class="img-fluid" />
+									<img src="images/g2.jpg" alt=" " class="img-fluid" />
 								</figure>
 							</a>
 						</div>
 					</div>
 					<div class="gallery-img-grid hover14 column">
 						<div class="gallery_effect">
-							<a href="g3.jpg" class="sb" title="Priyanka's Pizzeria">
+							<a href="images/g3.jpg" class="sb" title="Priyanka's Pizzeria">
 								<figure>
-									<img src="g3.jpg" alt=" " class="img-fluid" />
+									<img src="images/g3.jpg" alt=" " class="img-fluid" />
 								</figure>
 							</a>
 						</div>
@@ -242,18 +242,18 @@
 				<div class="col-4 agile-gallery_grid_main">
 					<div class="gallery-img-grid hover14 column">
 						<div class="gallery_effect">
-							<a href="g7.jpg" class="sb" title="Priyanka's Pizzeria">
+							<a href="images/g7.jpg" class="sb" title="Priyanka's Pizzeria">
 								<figure>
-									<img src="g7.jpg" alt=" " class="img-fluid" />
+									<img src="images/g7.jpg" alt=" " class="img-fluid" />
 								</figure>
 							</a>
 						</div>
 					</div>
 					<div class="gallery-img-grid hover14 column">
 						<div class="gallery_effect">
-							<a href="g8.jpg" class="sb" title="Priyanka's Pizzeria">
+							<a href="images/g8.jpg" class="sb" title="Priyanka's Pizzeria">
 								<figure>
-									<img src="g8.jpg" alt=" " class="img-fluid" />
+									<img src="images/g8.jpg" alt=" " class="img-fluid" />
 								</figure>
 							</a>
 						</div>
@@ -262,27 +262,27 @@
 				<div class="col-4 agile-gallery_grid_main">
 					<div class="gallery-img-grid gallery_grid1 hover14 column">
 						<div class="gallery_effect">
-							<a href="g4.jpg" class="sb" title="Priyanka's Pizzeria">
+							<a href="images/g4.jpg" class="sb" title="Priyanka's Pizzeria">
 								<figure>
-									<img src="g4.jpg" alt=" " class="img-fluid" />
+									<img src="images/g4.jpg" alt=" " class="img-fluid" />
 								</figure>
 							</a>
 						</div>
 					</div>
 					<div class="gallery-img-grid hover14 column">
 						<div class="gallery_effect">
-							<a href="g5.jpg" class="sb" title="Priyanka's Pizzeria">
+							<a href="images/g5.jpg" class="sb" title="Priyanka's Pizzeria">
 								<figure>
-									<img src="g5.jpg" alt=" " class="img-fluid" />
+									<img src="images/g5.jpg" alt=" " class="img-fluid" />
 								</figure>
 							</a>
 						</div>
 					</div>
 					<div class="gallery-img-grid hover14 column">
 						<div class="gallery_effect">
-							<a href="g6.jpg" class="sb" title="Priyanka's Pizzeria">
+							<a href="images/g6.jpg" class="sb" title="Priyanka's Pizzeria">
 								<figure>
-									<img src="g6.jpg" alt=" " class="img-fluid" />
+									<img src="images/g6.jpg" alt=" " class="img-fluid" />
 								</figure>
 							</a>
 						</div>
