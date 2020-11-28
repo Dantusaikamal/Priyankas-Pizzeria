@@ -756,7 +756,7 @@ div.form-spinner-input-td .form-spinner-input {
 }
 
 .form-screen-button div{
-    background-image: url("/images/photo.png");
+    background-image: url("images/photo.png");
     background-position:center;
     background-repeat:no-repeat;
     height: 50px;
