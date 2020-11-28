@@ -25,13 +25,13 @@ include('connection.php');?>
 	<!--// Meta tag Keywords -->
 
 	<!-- Custom-Files -->
-	<link rel="stylesheet" href="bootstrap.css">
+	<link rel="stylesheet" href="css/bootstrap.css">
 	<!-- Bootstrap-Core-CSS -->
-	<link rel="stylesheet" href="smoothbox.css" type='text/css' media="all" />
+	<link rel="stylesheet" href="css/smoothbox.css" type='text/css' media="all" />
 	<!-- gallery light box -->
-	<link rel="stylesheet" href="style.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
 	<!-- Style-CSS -->
-	<link rel="stylesheet" href="fontawesome-all.css">
+	<link rel="stylesheet" href="css/fontawesome-all.css">
 	<!-- Font-Awesome-Icons-CSS -->
 	<!-- //Custom-Files -->
 
@@ -43,8 +43,8 @@ include('connection.php');?>
 	<!-- //Web-Fonts -->
 
 
-  <link rel="stylesheet" type="text/css" href="reset.css" />
-  <link rel="stylesheet" type="text/css" href="mycss.css" />
+  <link rel="stylesheet" type="text/css" href="css/reset.css" />
+  <link rel="stylesheet" type="text/css" href="css/mycss.css" />
   <style>
   table, th, td {
   border: 1px solid black;

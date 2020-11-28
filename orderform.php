@@ -1485,7 +1485,7 @@ for (var i = 0; i < all_spc.length; i++)
  
 </form></body>
 </html>
-<script src="orderform.js"></script>
+<script src="js/orderform.js"></script>
   
 ?>
 
