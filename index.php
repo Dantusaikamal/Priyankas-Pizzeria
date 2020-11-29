@@ -44,7 +44,7 @@
 		<nav class="navbar navbar-expand-lg navbar-light py-4">
 			<div class="container">
 				<h1>
-					<a class="navbar-brand" href="index.html">
+					<a class="navbar-brand" href="#">
 						<img src="images/logo.png" alt="logo" style="width= 40px; height=40px; padding-right: 40px;">
 
 					</a>
@@ -58,7 +58,7 @@
 
 					<ul class="navbar-nav mx-auto text-center">
 						<li class="nav-item active">
-							<a class="nav-link text-white" href="index.html">Home
+							<a class="nav-link text-white" href="index.php">Home
 								<span class="sr-only">(current)</span>
 							</a>
 						</li>
@@ -361,7 +361,7 @@
 					<h3 class="mb-sm-4 mb-3 pb-3">Home</h3>
 					<ul class="list-unstyled">
 						<li>
-							<a href="index.html">Index</a>
+							<a href="index.php">Index</a>
 						</li>
 						<li class="my-2">
 							<a class="scroll" href="#about">About</a>
