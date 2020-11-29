@@ -120,7 +120,7 @@
 						<img src="images/a1.png" alt="" class="img-fluid">
 						<h4 class="mb-3">Salami pizza</h4>
 						<p> Our chef's special pizza, try it and we assure you'll never forget it.</p>
-						<a href="#" class="button-w3ls mt-4" data-toggle="modal" data-target="#exampleModalCenter1">Read More
+						<a href="html/login.html" class="button-w3ls mt-4" data-toggle="modal" data-target="#exampleModalCenter1">Order Now
 						</a>
 					</div>
 				</div>
@@ -129,7 +129,7 @@
 						<img src="images/a2.png" alt="" class="img-fluid">
 						<h4 class="mb-3">Cheese macaroni Pizza</h4>
 						<p>Our pizza's taste so good that you'll dump other Pizza outlets ;)</p>
-						<a href="#" class="button-w3ls mt-4" data-toggle="modal" data-target="#exampleModalCenter1">Read More
+						<a href="html/login.html" class="button-w3ls mt-4" data-toggle="modal" data-target="#exampleModalCenter1">Order Now
 						</a>
 					</div>
 				</div>
@@ -175,12 +175,12 @@
 		<div class="py-xl-5 py-lg-3">
 			<h3 class="title text-center text-green mb-lg-5">
 				<span>You are what you eat.</span>Eat our healthiest pizzas ensuring you don't compromise on your health.</h3>
-			<a href="#" class="button-w3ls my-4 text-center" data-toggle="modal" data-target="#exampleModalCenter1">Read more about Specials			</a>
+			<a href="html/login.html" class="button-w3ls my-4 text-center" data-toggle="modal" data-target="#exampleModalCenter1">Try our Specials!			</a>
 			<div class="d-flex special-agiles text-left">
 				<div class="col-md-6 grids-w3ls-left">
 					<p class="mb-2 text-black">Don't know what to order? Try Our</p>
 					<h4 class="title text-dark mb-md-4">Large double Cheese burst pepporini pizza.</h4>
-					<a href="#" class="button-w3ls mt-4" data-toggle="modal" data-target="#exampleModalCenter1">Read More
+					<a href="html/login.html" class="button-w3ls mt-4" data-toggle="modal" data-target="#exampleModalCenter1">Order Now
 					</a>
 				</div>
 				<div class="col-md-6 grids-w3ls-right">
@@ -198,7 +198,7 @@
 				<div class="grids-w3ls-right-2 offset-lg-7 offset-sm-4">
                     <h4 class="title text-dark mb-sm-5 mb-4">Craving to eat pizza and not compromise on your diet?</h4>
 					<p class="mt-4">We got you covered! Select from our healthiest yet mouth watering pizzas which fits for you.</p>
-						<a href="#" class="button-w3ls mt-5" data-toggle="modal" data-target="#exampleModalCenter1">Read More
+						<a href="html/login.html" class="button-w3ls mt-5" data-toggle="modal" data-target="#exampleModalCenter1">Order Now
 					</a>
 				</div>
 			</div>
