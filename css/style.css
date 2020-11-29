@@ -236,7 +236,8 @@ button.submit:hover {
 /*-- //header --*/
 /*-- banner --*/
 .bg1 {
-background: url("images/new.jpg");    -webkit-background-size: cover;
+background: url("images/new.jpg");    
+-webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;
@@ -244,7 +245,9 @@ background: url("images/new.jpg");    -webkit-background-size: cover;
 }
 
 .bg2 {
-    background: url("images/roll.jpg")no-repeat center;
+    background: url("images/roll.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -712,7 +715,9 @@ a.button-w3ls:hover {
 }
 
 .agile-wthree-works {
-    background: url("images/img2.jpg") no-repeat left;
+    background: url("images/img2.jpg");
+    background-repeat: no-repeat;
+    background-position: left;
     background-size: contain;
     -webkit-background-size: contain;
     -moz-background-size: contain;
