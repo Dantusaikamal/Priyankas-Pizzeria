@@ -6,7 +6,7 @@
 
 	
 	
-header('Location: payment.html');
+header('Location: html/payment.html');
 
 
 ?>  
