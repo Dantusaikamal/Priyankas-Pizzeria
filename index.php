@@ -145,7 +145,7 @@
 				<span>Why you should</span> Order from Priyanka's Pizzeria</h3>
 			<div class="row pt-lg-5">
 				<div class="col-lg-6 text-center">
-					<img src="3.jpg" alt="" class="img-fluid chef-img">
+					<img src="images/3.jpg" alt="" class="img-fluid chef-img">
 				</div>
 				<div class="col-lg-4 mt-lg-0 mt-4">
 					<div class="service1-wthree">
