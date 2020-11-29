@@ -138,19 +138,19 @@ h2.resp-accordion {
    display: block;
 }
 li.resp-tab-item span .pic1{
-    background: url("images/pic2.png") no-repeat 38px 15px #fafafa !important;
+    background: url("/images/pic2.png") no-repeat 38px 15px #fafafa !important;
 
 }
 li.resp-tab-item span .pic2{
-    background: url("images/pic3.png") no-repeat 38px 15px #fafafa !important;
+    background: url("/images/pic3.png") no-repeat 38px 15px #fafafa !important;
 
 }
 li.resp-tab-item span .pic3{
-    background: url("images/pic1.png") no-repeat 14px 15px #fafafa !important;
+    background: url("/images/pic1.png") no-repeat 14px 15px #fafafa !important;
 
 }
 li.resp-tab-item span .pic4{
-    background: url("images/pic4.png") no-repeat 38px 15px #fafafa !important;
+    background: url("/images/pic4.png") no-repeat 38px 15px #fafafa !important;
 }
 li.resp-tab-item span .pic1,li.resp-tab-item span .pic2,li.resp-tab-item span .pic3,li.resp-tab-item span .pic4{
     width: 100%;
