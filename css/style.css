@@ -236,7 +236,7 @@ button.submit:hover {
 /*-- //header --*/
 /*-- banner --*/
 .bg1 {
-background: url("../images/new.jpg");    
+background: url('../images/new.jpg');    
 -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -245,7 +245,7 @@ background: url("../images/new.jpg");
 }
 
 .bg2 {
-    background: url("../images/roll.jpg");
+    background: url('../images/roll.jpg');
     background-repeat: no-repeat;
     background-position: center;
     -webkit-background-size: cover;
@@ -658,7 +658,7 @@ a.button-w3ls:hover {
 
 /*-- About --*/
 .w3ls-middle {
-    background: url("../images/bg2.jpg") no-repeat right;
+    background: url('../images/bg2.jpg') no-repeat right;
     background-size: contain;
     -webkit-background-size: contain;
     -moz-background-size: contain;
