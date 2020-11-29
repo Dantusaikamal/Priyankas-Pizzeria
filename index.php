@@ -45,7 +45,7 @@
 			<div class="container">
 				<h1>
 					<a class="navbar-brand" href="index.html">
-						<img src="logo.png" alt="logo" style="width= 40px; height=40px; padding-right: 40px;">
+						<img src="images/logo.png" alt="logo" style="width= 40px; height=40px; padding-right: 40px;">
 
 					</a>
 				</h1>
@@ -352,7 +352,7 @@
 				<div class="col-lg-4 footer-grid text-left">
 					<div class="footer-logo">
 						<h2 class="mb-3">
-                          <a><img src="logo.png" alt="logo" width="180px" height="180px" padding-top="20px">
+                          <a><img src="images/logo.png" alt="logo" width="180px" height="180px" padding-top="20px">
                           </a>
 						</h2>
 					</div>
