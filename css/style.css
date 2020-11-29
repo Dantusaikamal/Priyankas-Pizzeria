@@ -236,7 +236,7 @@ button.submit:hover {
 /*-- //header --*/
 /*-- banner --*/
 .bg1 {
-background: url("https://raw.githubusercontent.com/Dantusaikamal/Priyankas-Pizzeria/main/images/new.jpg");    
+background-image: url("https://raw.githubusercontent.com/Dantusaikamal/Priyankas-Pizzeria/main/images/new.jpg");    
 -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
