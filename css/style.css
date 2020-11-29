@@ -98,7 +98,7 @@ a:hover {
     height: 38px;
     border: none;
     text-indent: 100%;
-    background: url("images/move-top.png") no-repeat 0px 0px;
+    background: url("../images/move-top.png") no-repeat 0px 0px;
 }
 
 #toTopHover {
@@ -236,7 +236,7 @@ button.submit:hover {
 /*-- //header --*/
 /*-- banner --*/
 .bg1 {
-background: url("images/new.jpg");    
+background: url("../images/new.jpg");    
 -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -245,7 +245,7 @@ background: url("images/new.jpg");
 }
 
 .bg2 {
-    background: url("images/roll.jpg");
+    background: url("../images/roll.jpg");
     background-repeat: no-repeat;
     background-position: center;
     -webkit-background-size: cover;
@@ -260,7 +260,7 @@ background: url("images/new.jpg");
 }
 
 .w3l-overlay {
-    background: url("images/overlay.png")repeat;
+    background: url("../images/overlay.png")repeat;
 }
 
 .w3l-overlay,
@@ -600,7 +600,7 @@ p.movetxt {
 /*-- //search --*/
 /* about */
 .about {
-    background: url("images/bg1.jpg") no-repeat center;
+    background: url("../images/bg1.jpg") no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -658,7 +658,7 @@ a.button-w3ls:hover {
 
 /*-- About --*/
 .w3ls-middle {
-    background: url("images/bg2.jpg") no-repeat right;
+    background: url("../images/bg2.jpg") no-repeat right;
     background-size: contain;
     -webkit-background-size: contain;
     -moz-background-size: contain;
@@ -715,7 +715,7 @@ a.button-w3ls:hover {
 }
 
 .agile-wthree-works {
-    background: url("images/img2.jpg");
+    background: url("../images/img2.jpg");
     background-repeat: no-repeat;
     background-position: left;
     background-size: contain;
@@ -735,7 +735,7 @@ a.button-w3ls:hover {
 }
 
 footer {
-    background: url("images/bg5.jpg") no-repeat center fixed;
+    background: url("../images/bg5.jpg") no-repeat center fixed;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -10069,7 +10069,7 @@ a.sb {
 }
 /* wrapper after loading */
 .sb-load {
-    background:url("images/load.gif") center no-repeat rgba(0,0,0,.9);
+    background:url("../images/load.gif") center no-repeat rgba(0,0,0,.9);
 }
 /* vertical centering */
 .smoothbox-table {
