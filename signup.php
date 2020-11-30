@@ -41,7 +41,7 @@
         //$sql = "select *from login where username = '$username' and password = '$password'";  
         if ($con->query($sql) === TRUE) {
 		echo '<script>alert("Registration Succesful. Login to continue")</script>'; 
-        header('Location: login.html');
+        header('Location: html/login.html');
 }
 	  		
 ?>  
