@@ -23,7 +23,7 @@
 	<!-- Bootstrap-Core-CSS -->
 	<link rel="stylesheet" href="/css/smoothbox.css" type='text/css' media="all" />
 	<!-- gallery light box -->
-	<link rel="stylesheet" href="/css/style.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="../css/style.css" type="text/css" media="all" />
 	<!-- Style-CSS -->
 	<link rel="stylesheet" href="/css/fontawesome-all.css">
 	<!-- Font-Awesome-Icons-CSS -->
@@ -35,6 +35,7 @@
 	<link href="//fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&amp;subset=latin-ext"
 	    rel="stylesheet">
 	<!-- //Web-Fonts -->
+
 
 </head>
 
@@ -51,25 +52,22 @@
 			<li>
 				<div class="slider-info bg1">
 					<div class="w3l-overlay">
-						<h2 style="font-size: 50px; text-shadow: 5px; text-align: center; padding-top: 0px;">Login</h2>
+						<h2 style="font-size: 50px; text-shadow: 5px; text-align: center; padding-top: 10px;">Login</h2>
 
 						<div class="banner-text text-center container">
 							<div class="search-agile">
-        <p style="font-size: 20px; color:white;">Please fill in your credentials to start ordering from Priyanka's Pizzeria</p>
-        <form name="f1" action = "/authentication.php" onsubmit = "return validation()" method = "POST">  
-            <p style="color:white; margin: 5px;">  
-                <label> UserName: </label>  
-                <input type = "text" id ="user" name  = "user" />  
-            </p>  
-            <p style="color:white;">  
-                <label> Password: </label>  
-                <input type = "password" id ="pass" name  = "pass" />  
-            </p>  
-            <p>     
-                <input type =  "submit" id = "btn" value = "Login" />  
-            </p>  
-        </form>  
-		
+        						<p style="font-size: 20px; color:white;">Please fill in your credentials to start ordering from Priyanka's Pizzeria</p>
+									<form name="f1" action = "/authentication.php" onsubmit = "return validation()" method = "POST">  
+									
+											<label style="color: white; padding-right: 5px; font-size: 20px"> UserName: </label>  
+												<input type = "text" id ="user" name  = "user" />  
+									
+											<label style="color: #fff; padding-right: 5px;font-size: 20px" > Password: </label>  
+											<input type = "password" id ="pass" name  = "pass" />  
+										
+											<input  type =  "submit" id = "btn" value = "Login" />  
+										
+									</form>  
 						</div>
 					</div>
 				</div>
