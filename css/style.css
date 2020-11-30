@@ -1,9 +1,12 @@
-
+html{
+  scroll-behavior: smooth;
+}
 body {
     padding: 0;
     margin: 0;
     background: #FFF;
     font-family: 'Open Sans', sans-serif;
+   
 }
 
 body a {
