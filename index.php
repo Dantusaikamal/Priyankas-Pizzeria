@@ -461,7 +461,7 @@
 	<!--  necessary snippets for few javascript files -->
 	<script src="js/snacks.js"></script>
 
-	<script src="js/bootstrap.js"></script>
+	<script src="js/bootstrap.min.js"></script>
 	<!-- Necessary-JavaScript-File-For-Bootstrap -->
 	<!-- //Js files -->
 
