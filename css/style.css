@@ -770,6 +770,7 @@ footer {
 .address-grid,
 .address-right {
     background-color: #fff;
+    height: 500px !important;
     -webkit-box-shadow: 0px 2px 13px -1px rgba(0, 0, 0, 0.15);
     -moz-box-shadow: 0px 2px 13px -1px rgba(0, 0, 0, 0.15);
     box-shadow: 0px 2px 13px -1px rgba(0, 0, 0, 0.15);
