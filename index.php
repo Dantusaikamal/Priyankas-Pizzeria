@@ -461,7 +461,8 @@
 	<!--  necessary snippets for few javascript files -->
 	<script src="js/snacks.js"></script>
 
-	<script src="js/bootstrap.js"></script>
+	<!-- <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" ></script> -->
+	<!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" ></script> -->
 	<!-- Necessary-JavaScript-File-For-Bootstrap -->
 	<!-- //Js files -->
 
